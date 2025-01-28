@@ -1,0 +1,8 @@
+Debug/
+.vscode/
+.mxproject
+.cproject
+.settings/
+*.elf
+*.bin
+*.hex
